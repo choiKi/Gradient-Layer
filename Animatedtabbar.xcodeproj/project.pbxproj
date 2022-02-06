@@ -17,6 +17,7 @@
 		021B1BBE27B001BE0089851A /* AnimatedtabbarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021B1BBD27B001BE0089851A /* AnimatedtabbarTests.swift */; };
 		021B1BC827B001BE0089851A /* AnimatedtabbarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021B1BC727B001BE0089851A /* AnimatedtabbarUITests.swift */; };
 		021B1BCA27B001BE0089851A /* AnimatedtabbarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021B1BC927B001BE0089851A /* AnimatedtabbarUITestsLaunchTests.swift */; };
+		021B1BD727B017B60089851A /* GradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021B1BD627B017B60089851A /* GradientButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		021B1BC327B001BE0089851A /* AnimatedtabbarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimatedtabbarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		021B1BC727B001BE0089851A /* AnimatedtabbarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedtabbarUITests.swift; sourceTree = "<group>"; };
 		021B1BC927B001BE0089851A /* AnimatedtabbarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedtabbarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		021B1BD627B017B60089851A /* GradientButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				021B1BB127B001BE0089851A /* LaunchScreen.storyboard */,
 				021B1BB427B001BE0089851A /* Info.plist */,
 				021B1BAC27B001BE0089851A /* Animatedtabbar.xcdatamodeld */,
+				021B1BD627B017B60089851A /* GradientButton.swift */,
 			);
 			path = Animatedtabbar;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				021B1BD727B017B60089851A /* GradientButton.swift in Sources */,
 				021B1BA827B001BE0089851A /* ViewController.swift in Sources */,
 				021B1BA427B001BE0089851A /* AppDelegate.swift in Sources */,
 				021B1BAE27B001BE0089851A /* Animatedtabbar.xcdatamodeld in Sources */,
